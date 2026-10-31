@@ -1,0 +1,10 @@
+venv/
+dataset/
+processed/
+inlegalbert_local/
+kaggle_upload/
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.joblib
+*.keras
